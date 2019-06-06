@@ -76,7 +76,7 @@ These are limits for a single flow run.
 | Actions executions per 5 minutes - Free and Plan 1 license | 2,000 | Also, you can distribute a workload across more than one flow as needed. |
 |Actions executions per 5 minutes - Plan 2 license|100,000|Also, you can distribute a workload across more than one flow as needed.|
 | Actions concurrent outgoing calls - Free and Plan 1 license | ~500 | Reduce the number of concurrent requests or reduce the duration as needed. |
-| Actions concurrent outgoing calls - Free and Plan 1 license | ~2,500 | Reduce the number of concurrent requests or reduce the duration as needed. | 
+| Actions concurrent outgoing calls - Plan 2 license | ~2,500 | Reduce the number of concurrent requests or reduce the duration as needed. | 
 
 ## Throughput limits
 
